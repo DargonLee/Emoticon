@@ -4,4 +4,4 @@
 # 使用方法详见ViewController
 
 # gif图片演示
-![image](/Users/apple/Desktop/emotion.gif)
+
