@@ -5,4 +5,4 @@
 
 # gif图片演示
 
-![image](http://github.com/DargonLee/Emoticon/Emoticon/Emoticon/gif/emotion.gif)
+![image](http://github.com/DargonLee/Emoticon/Emoticon/gif/emotion.gif)
