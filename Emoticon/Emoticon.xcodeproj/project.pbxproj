@@ -20,6 +20,7 @@
 		3ED3A2481EE42C4F004F0729 /* Emoticons.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3ED3A2401EE42C4F004F0729 /* Emoticons.bundle */; };
 		3ED3A2491EE42C4F004F0729 /* EmoticonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED3A2411EE42C4F004F0729 /* EmoticonViewController.swift */; };
 		3ED3A24A1EE42C4F004F0729 /* UITextView-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED3A2421EE42C4F004F0729 /* UITextView-Extension.swift */; };
+		3EE1B31A1EF6A9E20013D757 /* emotion.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3EE1B3191EF6A9E20013D757 /* emotion.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		3ED3A2401EE42C4F004F0729 /* Emoticons.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Emoticons.bundle; sourceTree = "<group>"; };
 		3ED3A2411EE42C4F004F0729 /* EmoticonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmoticonViewController.swift; sourceTree = "<group>"; };
 		3ED3A2421EE42C4F004F0729 /* UITextView-Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITextView-Extension.swift"; sourceTree = "<group>"; };
+		3EE1B3191EF6A9E20013D757 /* emotion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = emotion.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			children = (
 				3ED3A2281EE42BFA004F0729 /* AppDelegate.swift */,
 				3ED3A22A1EE42BFA004F0729 /* ViewController.swift */,
+				3EE1B3181EF6A9E20013D757 /* gif */,
 				3ED3A23A1EE42C4F004F0729 /* Emoticon */,
 				3ED3A22C1EE42BFA004F0729 /* Main.storyboard */,
 				3ED3A22F1EE42BFA004F0729 /* Assets.xcassets */,
@@ -94,6 +97,14 @@
 				3ED3A2421EE42C4F004F0729 /* UITextView-Extension.swift */,
 			);
 			path = Emoticon;
+			sourceTree = "<group>";
+		};
+		3EE1B3181EF6A9E20013D757 /* gif */ = {
+			isa = PBXGroup;
+			children = (
+				3EE1B3191EF6A9E20013D757 /* emotion.gif */,
+			);
+			path = gif;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -158,6 +169,7 @@
 				3ED3A2331EE42BFA004F0729 /* LaunchScreen.storyboard in Resources */,
 				3ED3A2481EE42C4F004F0729 /* Emoticons.bundle in Resources */,
 				3ED3A2301EE42BFA004F0729 /* Assets.xcassets in Resources */,
+				3EE1B31A1EF6A9E20013D757 /* emotion.gif in Resources */,
 				3ED3A22E1EE42BFA004F0729 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -341,6 +353,7 @@
 				3ED3A2391EE42BFA004F0729 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
