@@ -5,3 +5,4 @@
 
 # gif图片演示
 
+![image](http://github.com/DargonLee/Emoticon/Emoticon/Emoticon/gif/emotion.gif)
