@@ -4,5 +4,7 @@
 # 使用方法详见ViewController
 
 # gif图片演示
-路径：Emoticon/Emoticon/Emoticon/gif/emotion.gif
-![git图片](http://github.com/DargonLee/Emoticon/Emoticon/Emoticon/gif/emotion.gif)
+
+<p align="center" >
+<img src="Emoticon/Emoticon/Emoticon/gif/emotion.gif" title="效果图">
+</p>
