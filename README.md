@@ -6,5 +6,5 @@
 # gif图片演示
 
 <p align="center" >
-<img src="Emoticon/Emoticon/Emoticon/gif/emotion.gif" title="效果图">
+<img src="./Emoticon/Emoticon/gif/emotion.gif" title="效果图">
 </p>
